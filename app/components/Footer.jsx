@@ -109,11 +109,11 @@ export default function Footer() {
                 className="block transition hover:text-white">
                 hello@dentiva.com
               </a>
-
+              
               <p className="leading-6">
-                125 Wellness Avenue
+                no 12 kuruku sandhu
                 <br />
-                New York, NY 10001
+                dubai main road, duba
               </p>
 
             </div>
